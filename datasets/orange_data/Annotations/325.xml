@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>325.jpg</filename>
+	<path>C:\Users\LIZHIMING1\Desktop\orange\1\325.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>66</ymin>
+			<xmax>217</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+</annotation>
