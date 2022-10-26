@@ -776,7 +776,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--hyp",
         type=str,
-        default="data/hyp.scratch.tiny.yaml",
+        default="data/hyp.scratch.p5.yaml",
         help="hyperparameters path",
     )
     parser.add_argument("--epochs", type=int, default=300)
